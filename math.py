@@ -5,7 +5,7 @@ def add(x,y):
 
 #subtract implementataion
 def subtract(x,y):
-      return x-y
+      return x--y
 
 #multiply fun header
 def multiply(x,y):
