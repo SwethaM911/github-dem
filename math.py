@@ -9,7 +9,7 @@ def subtract(x,y):
 
 #multiply fun header
 def multiply(x,y):
-      return x*y        #implementation on bug456
+      return x**y        #implementation on bug456
 
 #division implementation
 def divide(x,y):
